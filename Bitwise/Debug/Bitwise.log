@@ -1,0 +1,14 @@
+﻿Build started 14.01.2018 13:54:47.
+     1>Project "C:\Users\TEMEL\documents\visual studio 2012\Projects\Bitwise\Bitwise\Bitwise.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\temel\documents\visual studio 2012\projects\bitwise\bitwise\main.cpp(40): warning C4552: '*' : operator has no effect; expected operator with side-effect
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\TEMEL\documents\visual studio 2012\Projects\Bitwise\Debug\Bitwise.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\TEMEL\documents\visual studio 2012\Projects\Bitwise\Debug\Bitwise.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\TEMEL\documents\visual studio 2012\Projects\Bitwise\Debug\Bitwise.lib" /MACHINE:X86 Debug\main.obj
+         Bitwise.vcxproj -> C:\Users\TEMEL\documents\visual studio 2012\Projects\Bitwise\Debug\Bitwise.exe
+     1>Done Building Project "C:\Users\TEMEL\documents\visual studio 2012\Projects\Bitwise\Bitwise\Bitwise.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.34
